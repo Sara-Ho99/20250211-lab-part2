@@ -6,4 +6,4 @@
 
 ## Netlify
 
-magenta-palmier-23d056
+magenta-palmier-23d056 --- *site deleted*
